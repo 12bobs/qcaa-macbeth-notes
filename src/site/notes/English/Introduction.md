@@ -5,7 +5,7 @@
 #### 1. Context statement
 Here you should include the main message of the work, as well as its date, writer and historical context. Think of it as your 'History' paragraph.
 If certain aspects of the historical context are extremely significant for the exploration of your thesis statement, its great to mention them here in the first 3-4 lines. You will be preparing your readers for your thesis statement.
-- Jacobean era
+- [[English/The Jacobian era\|The Jacobian era]]
 - [[English/Context for Shakespeare\|Context for Shakespeare]]
 #### 2. Thesis statement
 State your thesis as clearly as possible. Here you can be succinct or elaborate, but make sure not to go over 3 sentences. It's crucial that you use the wording of your question, as it will make it obvious that you've directly answering it.  
