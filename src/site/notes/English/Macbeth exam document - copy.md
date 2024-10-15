@@ -10,5 +10,5 @@
 - [[English/Example essay for fate vs free will\|Example essay for fate vs free will]]
 - [[English/Example essay for ambition\|Example essay for ambition]]
 - [[English/Example essay for masculinity\|Example essay for masculinity]]
-- [[deception\|deception]]
+- [[English/Example essay for deception\|Example essay for deception]]
 - [[English/Example essay for Banquo\|Example essay for Banquo]]
