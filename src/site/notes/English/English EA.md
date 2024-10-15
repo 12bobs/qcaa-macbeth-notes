@@ -12,4 +12,3 @@
 #### Macbeth
 - [[English/Analysis\|Analysis]]
 - [[Business/Symbols\|Symbols]]
-- [[English/Literary devices\|Literary devices]]
