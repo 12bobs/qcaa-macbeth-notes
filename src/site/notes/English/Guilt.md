@@ -32,7 +32,7 @@
 - We can see the extent to which guilt has crippled Lady Macbeth's ability to live a normal life. Saying this lines shows that while she thought that before she could simply wash off Duncan's blood, now she cannot psychologically escape the blood, or in other words, the guilt of Duncan's murder. She obsessively repeats the action, demonstrating the extent to which the guilt weighs on her mind, as well as her fear that the "spot" could implicate her in the murder.
 
 - [[English/Guilt\|Guilt]]
-- [[Japanese/Symbolism of Hallucinations in Macbeth\|Symbolism of Hallucinations in Macbeth]]
+- [[English/Symbolism of Hallucinations in Macbeth\|Symbolism of Hallucinations in Macbeth]]
 >Is this a dagger which I see before me, 
 >The handle toward my hand? 
 >Come, let me clutch thee; 
@@ -57,7 +57,7 @@
 	- Macbeth feels guilty for his desires as he feels that he has made some sin by feeling that way, hence why he asks the stars to hide his desires.
 
 - [[English/1. Macbeth\|1. Macbeth]]
-- [[Japanese/Symbolism of sleep in Macbeth\|Symbolism of sleep in Macbeth]]
+- [[English/Symbolism of sleep in Macbeth\|Symbolism of sleep in Macbeth]]
 - [[English/The Supernatural\|The Supernatural]]
 > Methought I heard a voice cry, Sleep no more! 
 > Macbeth does murder sleep, — the innocent sleep; 

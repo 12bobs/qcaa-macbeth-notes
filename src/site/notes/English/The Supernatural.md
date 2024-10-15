@@ -42,7 +42,7 @@
 - Lady Macbeth has begun sleepwalking, and one night she says this.
 - We can see the extent to which guilt has crippled Lady Macbeth's ability to live a normal life. Saying this lines shows that while she thought that before she could simply wash off Duncan's blood, now she cannot psychologically escape the blood, or in other words, the guilt of Duncan's murder. She obsessively repeats the action, demonstrating the extent to which the guilt weighs on her mind, as well as her fear that the "spot" could implicate her in the murder.
 
-- [[Japanese/Symbolism of Hallucinations in Macbeth\|Symbolism of Hallucinations in Macbeth]]
+- [[English/Symbolism of Hallucinations in Macbeth\|Symbolism of Hallucinations in Macbeth]]
 - [[English/6. The Witches\|6. The Witches]]
 > Fair is foul, and foul is fair;
 > Hover through the fog and filthy air. 
@@ -53,7 +53,7 @@
 	- Shakespeare depicts the supernatural as being "foul", even if it has qualities of "fairness." probably relates back to [[English/Shakespeare and Religion\|Shakespeare and Religion]] due to the connotations that it had at the time.
 
 - [[English/Guilt\|Guilt]]
-- [[Japanese/Symbolism of Hallucinations in Macbeth\|Symbolism of Hallucinations in Macbeth]]
+- [[English/Symbolism of Hallucinations in Macbeth\|Symbolism of Hallucinations in Macbeth]]
 - [[English/1. Macbeth\|1. Macbeth]]
 >Is this a dagger which I see before me, 
 >The handle toward my hand? 
@@ -98,7 +98,7 @@
 
 - [[English/2. Lady Macbeth\|2. Lady Macbeth]]
 - [[English/Manipulation\|Manipulation]]
-- [[English/Deception\|Deception]]
+- [[English/Deception\|English/Deception]]
 > Look like the innocent flower, 
 > But be the serpent under it.
 -  Lady Macbeth entreats her husband to kill Duncan. She implores him to act secretly but strike violently.
@@ -107,7 +107,7 @@
 	- This also directly parallels what occurs in the play, where after murdering Duncan, Satan is invited into Macbeth's castle, symbolising his fall from grace.
 
 - [[English/1. Macbeth\|1. Macbeth]]
-- [[Japanese/Symbolism of sleep in Macbeth\|Symbolism of sleep in Macbeth]]
+- [[English/Symbolism of sleep in Macbeth\|Symbolism of sleep in Macbeth]]
 - [[English/Guilt\|Guilt]]
 > Methought I heard a voice cry, Sleep no more! 
 > Macbeth does murder sleep, — the innocent sleep; 

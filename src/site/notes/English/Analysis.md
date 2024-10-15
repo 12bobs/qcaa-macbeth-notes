@@ -9,7 +9,7 @@
 ### Key themes
 - [[English/Ambition\|Ambition]]
 - [[English/Guilt\|Guilt]]
-- [[English/Deception\|Deception]]
+- [[English/Deception\|English/Deception]]
 - [[English/Manipulation\|Manipulation]]
 - [[English/Fate vs Free will\|Fate vs Free will]]
 - [[English/The Supernatural\|The Supernatural]]

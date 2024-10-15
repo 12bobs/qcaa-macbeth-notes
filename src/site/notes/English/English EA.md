@@ -11,6 +11,6 @@
 - [[English/Preparing for English exams\|Preparing for English exams]]
 #### Macbeth
 - [[English/Analysis\|Analysis]]
-- [[Business/Symbols\|Symbols]]
+- [[English/Symbols\|Symbols]]
 #### Macbeth study document copy
 - [[English/Macbeth exam document - copy\|Macbeth exam document - copy]]
