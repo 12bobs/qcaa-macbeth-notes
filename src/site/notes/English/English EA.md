@@ -12,3 +12,5 @@
 #### Macbeth
 - [[English/Analysis\|Analysis]]
 - [[Business/Symbols\|Symbols]]
+#### Macbeth study document copy
+- [[English/Macbeth exam document - copy\|Macbeth exam document - copy]]
