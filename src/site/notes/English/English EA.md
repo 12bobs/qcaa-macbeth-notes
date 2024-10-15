@@ -5,7 +5,7 @@
 > [!important]
 > The majority of the analysis here is from Litcharts, however I have included my own analysis within here as long as general structure for exams as well as contextual analysis
 > >[!info}]
-> >If you have any questions about the notes are any requests to add send me an email at bbeam7@eq.edu.au
+> >If you have any questions about the notes or any requests to add send me an email at bbeam7@eq.edu.au
 #### Essays
 - [[English/Essay structure\|Essay structure]]
 - [[English/Preparing for English exams\|Preparing for English exams]]
