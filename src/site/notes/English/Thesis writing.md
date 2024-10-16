@@ -9,3 +9,4 @@ A question that asks, "what is the author's comment on the theme?" or 'How does 
 ## This is dogshit
 I just realised this is a dogshit note that doesn't help anyone, I legit just copied this off of Atomi last year. Here's a much better video on how to write good thesis:
 ![](https://www.youtube.com/watch?v=kaagsuwgbQE)
+🔥Shoutout writing with Andrew btw🔥

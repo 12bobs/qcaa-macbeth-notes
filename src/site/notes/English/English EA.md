@@ -13,7 +13,7 @@
 ### Bare minimum notes to study
 For those of you who either don't have the time, or cannot be bothered to properly study and memorise quotes, please refer to the notes bellow.
 ==Estimated study time for notes below: 4 hours== 
-- [[Notes for last minute study\|Notes for last minute study]]
+- [[English/Notes for last minute study\|Notes for last minute study]]
 #### Essays
 - [[English/Essay structure\|Essay structure]]
 - [[English/Preparing for English exams\|Preparing for English exams]]
