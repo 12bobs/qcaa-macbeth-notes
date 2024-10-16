@@ -14,4 +14,4 @@ Tags:
 3. other ways to end
 	1. Saying what we can learn from the text
 	2. Stating what bigger themes your thesis can lead to
-	3. end on a rhetorical questoin
+	3. end on a rhetorical question
