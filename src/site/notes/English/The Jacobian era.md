@@ -4,7 +4,7 @@
 
 ### Concept:
 #### Shakespeare' s intentions due to the setting
-- ==very political text,==
+- ==very political text==
 - Wrote the play with King James 1st, mainly to placate his desires.
 - Shakespeare wanted to warn and dissuade the audience from the consequences of committing regicide or treason; as it both religious and political significance.
 - Show the importance of the chain of being and the divine right of kings

@@ -22,4 +22,4 @@ A nice way to plan your introduction to your essay is the following:
 - Thesis - the most important sentence in essay + can be 1-2 sentences + directly answers the question
 - Signpost arguments - tell reader briefly what you'll discuss in paragraph 1, 2 and if having one, paragraph 3
 #### Example paragraph
-![Pasted image 20241016155645.png](/img/user/Pasted%20image%2020241016155645.png)
+![Pasted image 20241016155645.png](/img/user/English/Pasted%20image%2020241016155645.png)
