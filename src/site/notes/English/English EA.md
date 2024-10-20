@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/english/english-ea/","tags":["gardenEntry"]}
 ---
 
-
 >[!warning]
 >These notes contain a significant amount of spelling, punctuation, and gramma mistakes. I am lazy and will most likely not fix these, so please ignore them and just focus on the information.
 

@@ -10,7 +10,7 @@
 I realise that some of the formatting is broken but I'm too lazy to fix it.
 - [[English/Ambition\|Ambition]]
 - [[English/Guilt\|Guilt]]
-- [[English/Deception\|English/Deception]]
+- [[English/Deception\|Deception]]
 - [[English/Manipulation\|Manipulation]]
 - [[English/Fate vs Free will\|Fate vs Free will]]
 - [[English/The Supernatural\|The Supernatural]]

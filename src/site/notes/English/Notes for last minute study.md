@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/english/notes-for-last-minute-study/"}
 ---
 
-If you study, JUST what is recommended here you could expect a solid B, or around a 20/25
+If you study, JUST what is recommended here you could expect a solid B, or around a 20/25. Of course assuming that the exam question is straight forward enough.
 - [[English/Introduction\|Introduction]]
 	- [[English/Thesis writing\|Thesis writing]]
 	- [[English/General exam writing\|General exam writing]]
