@@ -4,7 +4,7 @@
 
 ### Concept:
 #### Corporate culture
-- Corporate culture refers to the shared  values, attitudes  and beliefs that characterise members of an organisation and guide its practices.
+- Corporate culture refers to the shared values, attitudes and beliefs that characterise members of an organisation and guide its practices.
 - Corporate culture is driven by the top leaders in a business and becomes embedded through processes, rewards systems and behaviours.
 - There is a clear link between  corporate culture and the performance of a business.
 - A strong corporate culture can improve the performance of a business by motivating employees and creating an effective and efficient work environment.

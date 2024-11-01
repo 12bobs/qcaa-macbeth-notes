@@ -19,6 +19,5 @@
 - Is about the process of establishing a direction for an organisation of where priorities are set, resources are allocated and operations strengthened to ensure stakeholders are working towards a common goal. 
 - The strategic plan should consider three key aspects of the change:
 	- *Content* - this refers to what needs to change. It should be the structure, system, technology, processes, products, services or socio-cultural aspects of the business.
-	- *Process* - a plan for how to achieve the change. It  shows how the change will be implemented and the direction it will take
+	- *Process* - a plan for how to achieve the change. It shows how the change will be implemented and the direction it will take
 	- *People* - those impacted by the change. This is the human element of the change and includes people's mindset, emotional reaction, behaviour, engagement and the cultural dynamics impacted by the change. 
-
