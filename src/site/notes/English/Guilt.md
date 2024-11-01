@@ -31,7 +31,7 @@
 - Lady Macbeth has begun sleepwalking, and one night she says this.
 - We can see the extent to which guilt has crippled Lady Macbeth's ability to live a normal life. Saying this lines shows that while she thought that before she could simply wash off Duncan's blood, now she cannot psychologically escape the blood, or in other words, the guilt of Duncan's murder. She obsessively repeats the action, demonstrating the extent to which the guilt weighs on her mind, as well as her fear that the "spot" could implicate her in the murder.
 
-- [[English/Guilt\|Guilt]]
+- [[English/The Supernatural\|The Supernatural]]
 - [[English/Symbolism of Hallucinations in Macbeth\|Symbolism of Hallucinations in Macbeth]]
 >Is this a dagger which I see before me, 
 >The handle toward my hand? 
