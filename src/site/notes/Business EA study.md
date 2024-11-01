@@ -4,7 +4,7 @@
 
 # Business EA study
 - [x] [[Business/Lewin's force field analysis\|Lewin's force field analysis]]
-- [ ] [[Business/Post-maturity stage\|Post-maturity stage]]
+- [x] [[Business/Post-maturity stage\|Post-maturity stage]]
 ## Change management
 - [ ] ==[[Business/Consultants and professional services\|Consultants and professional services]]
 - [ ] [[Business/Concept of change\|Concept of change]]
