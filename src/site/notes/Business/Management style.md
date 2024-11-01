@@ -7,8 +7,8 @@
 - An internal driver of change is the management in a business.
 - management make decisions about the future direction of a business.
 - The way management responds to change will impact on the outcomes for a business, and therefore they should play a pivotal role in bringing about change. 
-- An important element in managing change in the style of management that is needed to facilitate the change. To be an effective leader of change, a management style should be adopted thta includes the following:
-	- Communicator - to set a clear direction  and vision for the change
+- An important element in managing change in the style of management that is needed to facilitate the change. To be an effective leader of change, a management style should be adopted that includes the following:
+	- Communicator - to set a clear direction and vision for the change
 	- Liasson - to manage and consult during the change
 	- Advocate - to promote and support the change
 	- Coach - to engage and motivate stakeholders through the change.
