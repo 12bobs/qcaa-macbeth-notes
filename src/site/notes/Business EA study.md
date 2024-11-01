@@ -6,7 +6,7 @@
 - [x] [[Business/Lewin's force field analysis\|Lewin's force field analysis]]
 - [x] [[Business/Post-maturity stage\|Post-maturity stage]]
 ## Change management
-- [ ] ==[[Business/Consultants and professional services\|Consultants and professional services]]
+- [ ] [[Business/Consultants and professional services\|Consultants and professional services]]
 - [ ] [[Business/Concept of change\|Concept of change]]
 - [ ] [[Business/Internal and external influences of change\|Internal and external influences of change]]
 - [ ] [[Business/Vision for change\|Vision for change]]
